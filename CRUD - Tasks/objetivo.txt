@@ -1,0 +1,11 @@
+Implementar uma aplicação web CRUD para listagem, criação, deleção, edição e leitura de tasks.
+
+Para acessar o sistema, deve existir um sistema de login com e-mail e senha.
+
+As tasks possuem Código, Nome, Descrição e Arquivo Anexo.
+
+Utilize linguagem PHP e banco de dados MySQL para o teste.
+
+Inicio 06/12 19:05 - Pausa em 22:12
+Inicio 07/12 11:00 - Pausa em 12:00
+Inicio 06/12 12:28 - Termino em 14:12
